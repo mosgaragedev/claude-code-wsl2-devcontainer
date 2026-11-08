@@ -9,7 +9,7 @@
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/your-username/claude-code-wsl2-devcontainer.git
+git clone https://github.com/mosgaragedev/claude-code-wsl2-devcontainer.git
 cd claude-code-wsl2-devcontainer
 ./setup.sh
 ```
